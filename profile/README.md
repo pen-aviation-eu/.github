@@ -5,9 +5,9 @@
 
 | Repo | Description |
 |------|-------------|
-| [`europe-ops`](https://github.com/pen-aviation-eu/europe-ops) | Europe aviation operations |
-| [`europe-fleet`](https://github.com/pen-aviation-eu/europe-fleet) | Fleet tracking and management |
 | [`compliance-eu`](https://github.com/pen-aviation-eu/compliance-eu) | EU regulatory compliance |
+| [`europe-fleet`](https://github.com/pen-aviation-eu/europe-fleet) | Fleet tracking and management |
+| [`europe-ops`](https://github.com/pen-aviation-eu/europe-ops) | Europe aviation operations |
 
 ## 🔗 Related
 
